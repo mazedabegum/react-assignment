@@ -1,0 +1,15 @@
+.Header{
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Header ul li{
+    display: inline-block;
+}
+
+.Header ul li a{
+    text-decoration: none;
+    margin-right: 20px;
+}
